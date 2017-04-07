@@ -1,0 +1,8 @@
+{
+  "description": "girg_bot",
+  "repository": "./",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "node-opus": "^0.2.5"
+  }
+}

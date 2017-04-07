@@ -1,0 +1,8 @@
+{
+	"bot_token": "BOT_API_TOKEN",
+	"cmd_prefix": "!girg",
+	"discriminator": "9712",
+	"restricted": true,
+	"sound_path": "./sounds/",
+	"volume": 0.5
+}
