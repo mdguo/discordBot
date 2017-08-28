@@ -8,6 +8,8 @@ var voiceChs = [];
 var commands = new Map();
 var prefix = config.cmd_prefix + ' ';
 
+// rebase commit 1
+
 commands.set(new RegExp(prefix + "init", 'i'), ['init', true, initVoiceChannels]);
 commands.set(new RegExp(prefix + "info", 'i'), ['info', false, displayInfo]);
 commands.set(new RegExp(prefix + "shield", 'i'), ['shield', false, shieldInfo]);
