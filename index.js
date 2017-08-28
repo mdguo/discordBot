@@ -76,6 +76,8 @@ function partyHeal(message) {
 
 }
 
+// dev commit 1
+
 function displayInfo(message) {
 	message.reply('Daily raids starting at 9PM EST');
 	message.reply('You must have completed G19. Be in the assembly area behind the pub in Emain.');
